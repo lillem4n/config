@@ -12,6 +12,8 @@
         tabLength: 2
       }
     ]
+  "autocomplete-plus":
+    confirmCompletion: "enter"
   core:
     projectHome: "/home/lilleman/sites"
     themes: [
