@@ -14,7 +14,21 @@
     ]
   "autocomplete-plus":
     confirmCompletion: "enter"
+    defaultProvider: "Fuzzy"
+    enableAutoConfirmSingleSuggestion: false
   core:
+    disabledPackages: [
+      "autocomplete-snippets"
+      "autoflow"
+      "background-tips"
+      "image-view"
+      "link"
+      "open-on-github"
+      "snippets"
+      "spell-check"
+      "timecop"
+      "welcome"
+    ]
     projectHome: "/home/lilleman/sites"
     themes: [
       "seti-ui"
