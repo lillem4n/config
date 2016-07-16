@@ -1,0 +1,37 @@
+"*":
+  "auto-detect-indentation":
+    indentationTypes: [
+      {
+        name: "Tabs, 2"
+        softTabs: false
+        tabLength: 2
+      }
+      {
+        name: "Spaces, 2"
+        softTabs: true
+        tabLength: 2
+      }
+    ]
+  core:
+    projectHome: "/home/lilleman/sites"
+    themes: [
+      "seti-ui"
+      "seti-syntax"
+    ]
+  editor:
+    fontSize: 18
+    invisibles: {}
+    scrollPastEnd: true
+    showIndentGuide: true
+    showInvisibles: true
+    softTabs: false
+    tabType: "hard"
+  "seti-syntax":
+    themeColor: "Green"
+  "seti-ui":
+    compactView: true
+    themeColor: "Green"
+  welcome:
+    showOnStartup: false
+  whitespace:
+    ignoreWhitespaceOnCurrentLine: false

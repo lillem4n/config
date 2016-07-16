@@ -1,0 +1,2 @@
+'atom-text-editor':
+	'f9': 'tree-view:toggle'
